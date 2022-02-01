@@ -1,0 +1,22 @@
+{
+  "name": "schitts_creek",
+  "version": "1.0.0",
+  "description": "All the roses and also stevie ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laurencagss/dealers_choice_js.git"
+  },
+  "author": "lauren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laurencagss/dealers_choice_js/issues"
+  },
+  "homepage": "https://github.com/Laurencagss/dealers_choice_js#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
