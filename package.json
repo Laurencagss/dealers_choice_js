@@ -1,7 +1,7 @@
 {
   "name": "schitts_creek",
   "version": "1.0.0",
-  "description": "All the roses and also stevie ",
+  "description": "All the roses",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/Laurencagss/dealers_choice_js#readme",
   "dependencies": {
-    "express": "^4.17.2"
-  }
+    "express": "^4.17.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7",
+    "pg": "^8.7.3"
+  },
+  "keywords": []
 }
